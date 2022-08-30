@@ -2,6 +2,7 @@ import * as vscode from 'vscode';
 import * as types from './types';
 import { ExtensionConfig } from "./config";
 
+
 import { CSharpProperty } from "./properties";
 import { CSharpMethod, CSharpParameter, CSharpConstructor, CSharpRecord } from "./methods";
 import { CSharpClass } from "./classes";
